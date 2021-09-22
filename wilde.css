@@ -52,6 +52,7 @@ th{
 
 td{
     padding: 10px;
+    border-left: 1px dotted;
 }
 
 tr:nth-child(even){
