@@ -37,3 +37,24 @@ h5 {
 .consp4{
     color: darkgreen;
 }
+
+table{
+    border: .2em;
+    border-style: solid;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 1%;
+}
+
+th{
+    border-bottom: 1px dashed;
+}
+
+td{
+    padding: 10px;
+}
+
+tr:nth-child(even){
+    background-color: lightgray;
+}
+
