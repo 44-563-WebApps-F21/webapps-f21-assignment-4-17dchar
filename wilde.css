@@ -1,0 +1,39 @@
+h5 {
+    font-family: 'Courier New', Courier, monospace;
+    size: 2em;
+    color: black;
+}
+
+.speech{
+    font-family: 'Courier New', Courier, monospace;
+    size: 2em;
+    color: black;
+}
+
+.stage{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    size: 2em;
+    color: black;
+    background-color: lightgrey;
+}
+
+.stage:hover{
+    background-color: lightblue;
+    color: darkgrey;
+}
+
+.pres{
+    color: red;
+}
+
+.consp1{
+    color: rebeccapurple;
+}
+
+.consp2{
+    color: darkcyan;
+}
+
+.consp4{
+    color: darkgreen;
+}
