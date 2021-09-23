@@ -26,6 +26,11 @@ h5 {
     color: red;
 }
 
+.pres:hover{
+    text-shadow: .5em .5em 2px lightskyblue;
+    border: 1px dotted lightskyblue;
+}
+
 .consp1{
     color: rebeccapurple;
 }
@@ -36,6 +41,14 @@ h5 {
 
 .consp4{
     color: darkgreen;
+}
+
+.consp5{
+    color: blue;
+}
+
+.consps{
+    color: blueviolet;
 }
 
 table{
